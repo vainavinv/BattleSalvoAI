@@ -1,7 +1,7 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/tqZ-4RLU)
-# 3500 PA04 - BattleSalvo - Part 2 Project Repo
+# 3500 PA03/PA04 - BattleSalvo - Project Repo
 
-[PA04 Write-Up](https://markefontenot.notion.site/PA-04-BattleSalvo-Part-2-20ff66267da84956b35794bf8452c2fd)
+[PA04 Write-Up](https://markefontenot.notion.site/PA-03-BattleSalvo-Part-1-81f5240ddb3b4a38a491f1215abbdab4?pvs=25, https://markefontenot.notion.site/PA-04-BattleSalvo-Part-2-20ff66267da84956b35794bf8452c2fd)
 
 This template includes several additional tools:
 1. Gradle Build Automation
